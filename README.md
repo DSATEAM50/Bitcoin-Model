@@ -9,7 +9,7 @@ The moodle submission of our Team Consists of 3 files namely:
     
     Bitcoin.h   ==>Header file, includes basic structure & functions definations.
     
-    COMPILATION INSTRUCTION : run the command gcc Blockchain.c main.c
+    COMPILATION INSTRUCTION : run the command gcc Bitcoin.c main.c
 
 # BASIC INFO : HOW TO RUN TEST CASES:
 
