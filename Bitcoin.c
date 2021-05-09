@@ -508,6 +508,7 @@ int Validate_BlockChain(Block *startingBlock, int *x) //==> WE PASS THE FRONT BL
             //ROUTINE FOR FINDINING THE CORRECT NONCE AND RESTORE THE ORIGINAL BLOCK IN THE CHAIN//
             while (strcmp(CreateHash(startingBlock), startingBlock->Next->PrevBlockHash) != 0)
             {
+                //to find the correcc=t nonce for the corrupted block//
                 *(startingBlock->Nonce) = i;
                 i++;
                 if (i > 501)
