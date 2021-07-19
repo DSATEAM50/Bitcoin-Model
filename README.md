@@ -1,15 +1,11 @@
 # DSA_MINI_PROJECT___(TEAM 50)
-The moodle submission of our Team Consists of 3 files namely:     
 
-
+The project Consists of 3 files namely:     
     main.c      ==>contains code for the main user interface for giving input to the code.
-    
     Bitcoin.c   ==>Function implmentation file of our project, contains all functions we needed for the project.
-    //AVL TREE CODE was reffered from course github repo-> https://github.com/cvitatma/DSA //  
-    
-    Bitcoin.h   ==>Header file, includes basic structure & functions definations.
-    
-    COMPILATION INSTRUCTION : run the command gcc Bitcoin.c main.c
+    Bitcoin.h   ==>Header file, includes basic structure & functions definations
+It's a basic model that impements the Bitcoin model using data structures Linked Lists, AVL Trees.
+   //COMPILATION INSTRUCTION : run the command gcc Bitcoin.c main.c
 
 # BASIC INFO : HOW TO RUN TEST CASES:
 
