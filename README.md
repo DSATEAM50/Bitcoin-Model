@@ -1,4 +1,4 @@
-# DSA_MINI_PROJECT___(TEAM 50)
+
 
 The project Consists of 3 files namely:     
     main.c      ==>contains code for the main user interface for giving input to the code.
